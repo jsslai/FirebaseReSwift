@@ -1,2 +1,2 @@
-github "utahiosmac/Marshal" "v1.0"
-github "ReSwift/ReSwift" "2.1.0"
+github "ReSwift/ReSwift" "4.0.0"
+github "utahiosmac/Marshal" "1.2.4"
